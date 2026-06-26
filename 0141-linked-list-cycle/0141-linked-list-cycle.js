@@ -12,15 +12,14 @@
  */
 var hasCycle = function(head) {
     let set = new Set();
-    let curr = head;
+    let curr = head
     while(curr){
         if(set.has(curr)){
             return true
         }else{
             set.add(curr);
-            curr = curr.next
         }
+        curr = curr.next;
     }
     return false
-    
 };
