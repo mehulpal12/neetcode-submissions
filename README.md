@@ -94,6 +94,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mehulpal12/neetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mehulpal12/neetcode-submissions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/mehulpal12/neetcode-submissions/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/mehulpal12/neetcode-submissions/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -102,5 +103,6 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/mehulpal12/neetcode-submissions/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/mehulpal12/neetcode-submissions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
