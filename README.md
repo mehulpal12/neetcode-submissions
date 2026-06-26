@@ -81,16 +81,19 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mehulpal12/neetcode-submissions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/mehulpal12/neetcode-submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/mehulpal12/neetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/mehulpal12/neetcode-submissions/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mehulpal12/neetcode-submissions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/mehulpal12/neetcode-submissions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mehulpal12/neetcode-submissions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/mehulpal12/neetcode-submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/mehulpal12/neetcode-submissions/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
