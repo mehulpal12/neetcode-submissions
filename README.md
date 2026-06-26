@@ -80,5 +80,14 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/mehulpal12/neetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/mehulpal12/neetcode-submissions/tree/master/0283-move-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/mehulpal12/neetcode-submissions/tree/master/0141-linked-list-cycle) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/mehulpal12/neetcode-submissions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
