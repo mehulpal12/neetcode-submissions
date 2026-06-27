@@ -77,11 +77,13 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mehulpal12/neetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/mehulpal12/neetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/mehulpal12/neetcode-submissions/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mehulpal12/neetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/mehulpal12/neetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/mehulpal12/neetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mehulpal12/neetcode-submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/mehulpal12/neetcode-submissions/tree/master/0234-palindrome-linked-list) |
@@ -116,4 +118,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mehulpal12/neetcode-submissions/tree/master/0009-palindrome-number) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/mehulpal12/neetcode-submissions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
