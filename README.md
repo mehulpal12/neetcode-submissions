@@ -112,4 +112,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/mehulpal12/neetcode-submissions/tree/master/0344-reverse-string) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/mehulpal12/neetcode-submissions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
