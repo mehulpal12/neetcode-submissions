@@ -105,6 +105,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mehulpal12/neetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/mehulpal12/neetcode-submissions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -114,6 +115,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mehulpal12/neetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/mehulpal12/neetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mehulpal12/neetcode-submissions/tree/master/0344-reverse-string) |
 ## Math
