@@ -107,6 +107,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0020-valid-parentheses](https://github.com/mehulpal12/neetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/mehulpal12/neetcode-submissions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/mehulpal12/neetcode-submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/mehulpal12/neetcode-submissions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -131,8 +132,10 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/mehulpal12/neetcode-submissions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/mehulpal12/neetcode-submissions/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/mehulpal12/neetcode-submissions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/mehulpal12/neetcode-submissions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
