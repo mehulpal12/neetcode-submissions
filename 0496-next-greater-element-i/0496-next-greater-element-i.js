@@ -24,5 +24,9 @@ var nextGreaterElement = function(nums1, arr) {
         }
             stack.push(arr[i])
     }
-    return nums1.map(x => map[x])
+    let ans = [];
+    for(let i = 0; i< nums1.length; i++){
+        ans.push(map[nums1[i]])
+    }
+    return ans
 };
