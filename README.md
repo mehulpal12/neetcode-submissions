@@ -79,6 +79,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mehulpal12/neetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/mehulpal12/neetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mehulpal12/neetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0215-kth-largest-element-in-an-array](https://github.com/mehulpal12/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/mehulpal12/neetcode-submissions/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/mehulpal12/neetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/mehulpal12/neetcode-submissions/tree/master/0739-daily-temperatures) |
@@ -138,6 +139,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mehulpal12/neetcode-submissions/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/mehulpal12/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Design
 |  |
 | ------- |
@@ -162,4 +164,16 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/mehulpal12/neetcode-submissions/tree/master/0994-rotting-oranges) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mehulpal12/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mehulpal12/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mehulpal12/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
