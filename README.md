@@ -82,6 +82,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0283-move-zeroes](https://github.com/mehulpal12/neetcode-submissions/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/mehulpal12/neetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/mehulpal12/neetcode-submissions/tree/master/0739-daily-temperatures) |
+| [0994-rotting-oranges](https://github.com/mehulpal12/neetcode-submissions/tree/master/0994-rotting-oranges) |
 ## Two Pointers
 |  |
 | ------- |
@@ -153,4 +154,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0496-next-greater-element-i](https://github.com/mehulpal12/neetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/mehulpal12/neetcode-submissions/tree/master/0739-daily-temperatures) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/mehulpal12/neetcode-submissions/tree/master/0994-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/mehulpal12/neetcode-submissions/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
