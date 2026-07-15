@@ -134,6 +134,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mehulpal12/neetcode-submissions/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/mehulpal12/neetcode-submissions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mehulpal12/neetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Sorting
 |  |
@@ -176,4 +177,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mehulpal12/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/mehulpal12/neetcode-submissions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
