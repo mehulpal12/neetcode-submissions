@@ -84,6 +84,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0496-next-greater-element-i](https://github.com/mehulpal12/neetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/mehulpal12/neetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/mehulpal12/neetcode-submissions/tree/master/0994-rotting-oranges) |
+| [1046-last-stone-weight](https://github.com/mehulpal12/neetcode-submissions/tree/master/1046-last-stone-weight) |
 ## Two Pointers
 |  |
 | ------- |
@@ -173,6 +174,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mehulpal12/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1046-last-stone-weight](https://github.com/mehulpal12/neetcode-submissions/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
