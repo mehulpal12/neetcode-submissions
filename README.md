@@ -183,4 +183,9 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/mehulpal12/neetcode-submissions/tree/master/0069-sqrtx) |
+| [0374-guess-number-higher-or-lower](https://github.com/mehulpal12/neetcode-submissions/tree/master/0374-guess-number-higher-or-lower) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/mehulpal12/neetcode-submissions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
