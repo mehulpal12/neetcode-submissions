@@ -82,6 +82,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0215-kth-largest-element-in-an-array](https://github.com/mehulpal12/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/mehulpal12/neetcode-submissions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/mehulpal12/neetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mehulpal12/neetcode-submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0496-next-greater-element-i](https://github.com/mehulpal12/neetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/mehulpal12/neetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/mehulpal12/neetcode-submissions/tree/master/0994-rotting-oranges) |
@@ -145,6 +146,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0088-merge-sorted-array](https://github.com/mehulpal12/neetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mehulpal12/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/mehulpal12/neetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mehulpal12/neetcode-submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Design
 |  |
 | ------- |
@@ -168,6 +170,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Matrix
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mehulpal12/neetcode-submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0994-rotting-oranges](https://github.com/mehulpal12/neetcode-submissions/tree/master/0994-rotting-oranges) |
 ## Divide and Conquer
 |  |
@@ -179,6 +182,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mehulpal12/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/mehulpal12/neetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mehulpal12/neetcode-submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1046-last-stone-weight](https://github.com/mehulpal12/neetcode-submissions/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
@@ -190,6 +194,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0069-sqrtx](https://github.com/mehulpal12/neetcode-submissions/tree/master/0069-sqrtx) |
 | [0374-guess-number-higher-or-lower](https://github.com/mehulpal12/neetcode-submissions/tree/master/0374-guess-number-higher-or-lower) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mehulpal12/neetcode-submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Interactive
 |  |
 | ------- |
