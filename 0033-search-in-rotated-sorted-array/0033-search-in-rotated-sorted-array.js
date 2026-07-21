@@ -7,16 +7,16 @@ var search = function (arr, x) {
     let l = 0;
     let r = arr.length - 1;
     while (l <= r) {
-        let m = l + Math.floor((r - l) / 2);
-        if (x === arr[m]) return m;
-        if (arr[l] <= arr[m]) {
-            if (x >= arr[l] && x < arr[m]) {
-                r = m - 1;
+        let m = Math.floor(l + (r - l) / 2)
+        if (arr[m] === x) return m
+        if (arr[l] <= arr[m]) { // check the left side is sorted or not
+            if (arr[l] <= x && x < arr[m]) { // find the x is shorter then m
+                r = m - 1
             } else {
                 l = m + 1
             }
         } else {
-            if (x > arr[m] && x <= arr[r]) {
+            if (arr[m] < x && x <= arr[r]) {  // find the x is shorter then r
                 l = m + 1
             } else {
                 r = m - 1
