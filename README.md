@@ -80,6 +80,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0033-search-in-rotated-sorted-array](https://github.com/mehulpal12/neetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/mehulpal12/neetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mehulpal12/neetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/mehulpal12/neetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mehulpal12/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/mehulpal12/neetcode-submissions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/mehulpal12/neetcode-submissions/tree/master/0347-top-k-frequent-elements) |
@@ -195,6 +196,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/mehulpal12/neetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/mehulpal12/neetcode-submissions/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/mehulpal12/neetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/mehulpal12/neetcode-submissions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/mehulpal12/neetcode-submissions/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mehulpal12/neetcode-submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
