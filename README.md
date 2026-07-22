@@ -195,11 +195,13 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/mehulpal12/neetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/mehulpal12/neetcode-submissions/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/mehulpal12/neetcode-submissions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/mehulpal12/neetcode-submissions/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mehulpal12/neetcode-submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/mehulpal12/neetcode-submissions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/mehulpal12/neetcode-submissions/tree/master/0374-guess-number-higher-or-lower) |
 ## Bucket Sort
 |  |
