@@ -78,6 +78,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mehulpal12/neetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mehulpal12/neetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/mehulpal12/neetcode-submissions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/mehulpal12/neetcode-submissions/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/mehulpal12/neetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/mehulpal12/neetcode-submissions/tree/master/0090-subsets-ii) |
@@ -220,6 +221,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/mehulpal12/neetcode-submissions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/mehulpal12/neetcode-submissions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/mehulpal12/neetcode-submissions/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/mehulpal12/neetcode-submissions/tree/master/0090-subsets-ii) |
