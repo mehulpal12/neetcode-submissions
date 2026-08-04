@@ -144,6 +144,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mehulpal12/neetcode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/mehulpal12/neetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/mehulpal12/neetcode-submissions/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/mehulpal12/neetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/mehulpal12/neetcode-submissions/tree/master/0344-reverse-string) |
 ## Math
 |  |
@@ -233,6 +234,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0047-permutations-ii](https://github.com/mehulpal12/neetcode-submissions/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/mehulpal12/neetcode-submissions/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/mehulpal12/neetcode-submissions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/mehulpal12/neetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/mehulpal12/neetcode-submissions/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
@@ -242,4 +244,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/mehulpal12/neetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/mehulpal12/neetcode-submissions/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
