@@ -81,6 +81,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0039-combination-sum](https://github.com/mehulpal12/neetcode-submissions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/mehulpal12/neetcode-submissions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mehulpal12/neetcode-submissions/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/mehulpal12/neetcode-submissions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/mehulpal12/neetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/mehulpal12/neetcode-submissions/tree/master/0090-subsets-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mehulpal12/neetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -143,6 +144,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mehulpal12/neetcode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/mehulpal12/neetcode-submissions/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/mehulpal12/neetcode-submissions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/mehulpal12/neetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/mehulpal12/neetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/mehulpal12/neetcode-submissions/tree/master/0344-reverse-string) |
@@ -183,6 +185,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/mehulpal12/neetcode-submissions/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mehulpal12/neetcode-submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0994-rotting-oranges](https://github.com/mehulpal12/neetcode-submissions/tree/master/0994-rotting-oranges) |
 ## Divide and Conquer
@@ -233,6 +236,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0046-permutations](https://github.com/mehulpal12/neetcode-submissions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mehulpal12/neetcode-submissions/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/mehulpal12/neetcode-submissions/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/mehulpal12/neetcode-submissions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/mehulpal12/neetcode-submissions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/mehulpal12/neetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/mehulpal12/neetcode-submissions/tree/master/0216-combination-sum-iii) |
@@ -248,4 +252,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/mehulpal12/neetcode-submissions/tree/master/0131-palindrome-partitioning) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/mehulpal12/neetcode-submissions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
