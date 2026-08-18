@@ -81,6 +81,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0039-combination-sum](https://github.com/mehulpal12/neetcode-submissions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/mehulpal12/neetcode-submissions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mehulpal12/neetcode-submissions/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/mehulpal12/neetcode-submissions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/mehulpal12/neetcode-submissions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/mehulpal12/neetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/mehulpal12/neetcode-submissions/tree/master/0090-subsets-ii) |
@@ -235,6 +236,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0039-combination-sum](https://github.com/mehulpal12/neetcode-submissions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/mehulpal12/neetcode-submissions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mehulpal12/neetcode-submissions/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/mehulpal12/neetcode-submissions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/mehulpal12/neetcode-submissions/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/mehulpal12/neetcode-submissions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/mehulpal12/neetcode-submissions/tree/master/0090-subsets-ii) |
@@ -256,4 +258,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0079-word-search](https://github.com/mehulpal12/neetcode-submissions/tree/master/0079-word-search) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/mehulpal12/neetcode-submissions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
