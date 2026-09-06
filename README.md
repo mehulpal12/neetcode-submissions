@@ -91,6 +91,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mehulpal12/neetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mehulpal12/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/mehulpal12/neetcode-submissions/tree/master/0216-combination-sum-iii) |
+| [0238-product-of-array-except-self](https://github.com/mehulpal12/neetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/mehulpal12/neetcode-submissions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/mehulpal12/neetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mehulpal12/neetcode-submissions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -265,4 +266,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/mehulpal12/neetcode-submissions/tree/master/0051-n-queens) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/mehulpal12/neetcode-submissions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
